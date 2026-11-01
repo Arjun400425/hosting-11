@@ -1,0 +1,3 @@
+pyTelegramBotAPI==4.16.1
+psutil==5.9.8
+requests
